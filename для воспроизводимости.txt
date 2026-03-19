@@ -1,0 +1,6 @@
+pandas
+matplotlib
+nltk
+wordcloud
+networkx
+pymorphy3
