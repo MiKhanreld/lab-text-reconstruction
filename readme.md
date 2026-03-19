@@ -19,13 +19,13 @@
 ## Структура проекта
 
 lab_text_reconstruction/
-├── 5.txt
-├── lab_analysis.py
-├── README.md
-├── report.md
-├── тапание по llm.md
-├── для воспроизводимости.txt
-└── results/
+5.txt
+lab_analysis.py
+README.md
+report.md
+тапание по llm.md
+для воспроизводимости.txt
+results/
 
 ---
 
